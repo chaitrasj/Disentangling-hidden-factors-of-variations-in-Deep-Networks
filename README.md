@@ -1,4 +1,4 @@
-# Disentangling-hidden-factors-of-variations-in-Deep-Networks
+# Disentangling hidden factors of variations in Deep Networks
 Course project for Machine learning for Signal Processing ([MLSP](http://leap.ee.iisc.ac.in/sriram/teaching/MLSP_19/)) course: E9 205, at the Indian Institute of Science ([IISc](https://iisc.ac.in/)).
 
 The work is based on the [paper](https://arxiv.org/abs/1412.6583).
